@@ -1,5 +1,13 @@
-## RUN
-npm run build
+## What is this?
+
+This is an attempt to fix the GitHub Classroom autograder, that suddently stopped to display error messages for students.
+As soon as this issue is fixed, this fork here will become unnecessary (hopefully soon enough): https://github.com/education/autograding-command-grader/issues/13
+
+### Instructions (for myself)
+
+Just edit `src/main.js` and then run: `npm run build`
+
+Then, create a new tag (currently v6) and push it.
 
 
 ## GitHub Classroom Command Grader
