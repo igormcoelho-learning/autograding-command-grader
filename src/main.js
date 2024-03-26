@@ -76,6 +76,7 @@ function run() {
   }
 
   core.setOutput('result', btoa(JSON.stringify(result)))
+  console.log("STATUS="+result.status)
 }
 
 run()
