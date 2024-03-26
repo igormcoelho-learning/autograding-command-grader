@@ -1,3 +1,7 @@
+## RUN
+npm run build
+
+
 ## GitHub Classroom Command Grader
 
 ### Overview
