@@ -3,6 +3,8 @@
 This is an attempt to fix the GitHub Classroom autograder, that suddently stopped to display error messages for students.
 As soon as this issue is fixed, this fork here will become unnecessary (hopefully soon enough): https://github.com/education/autograding-command-grader/issues/13
 
+**UPDATE (31/03/2024):** The issue is fixed already, so please DO NOT use this fork here! Simply use `education/autograding-command-grader@v1` and it works fine.
+
 ### Instructions (for myself)
 
 Just edit `src/main.js` and then run: `npm run build`
